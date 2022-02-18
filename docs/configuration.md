@@ -26,7 +26,7 @@ port: 7125
 #   The port the HTTP server will listen on.  Default is 7125
 ssl_port: 7130
 #   The port to listen on for SSL (HTTPS) connections.  Note that the HTTPS
-#   server will only be started of the certificate and key options outlined
+#   server will only be started if the certificate and key options outlined
 #   below are provied.  The default is 7130.
 ssl_certificate_path:
 #   The path to a self signed ssl certificate.  The default is no path, which
