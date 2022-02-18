@@ -1460,7 +1460,7 @@ on_release:
 
 Both the `on_press` and `on_release` templates are provided a context with the
 with two methods that may be called in addition to Jinja2's default filters
-adn methods:
+and methods:
 
 - `call_method`:  Calls an internal API method.  See the
   [API documentation](web_api.md#jinja2-template-api-calls) for  details.
